@@ -19,7 +19,6 @@ ODD = "odd"
 EVEN = "even"
 PRIME = "prime"
 
-
 def is_prime(n):
     if n == 1:
         return False
